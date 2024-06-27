@@ -1,6 +1,6 @@
 <h2> Hi there! 👋 I'm Vero </h2>
 
-
+-- IN PROGRESS --
 
 **Studies**
 <p><img src="imgs\tn.png" alt="trento" style="width:14px;height:14px;"> <em>Building engineer @ <a href="https://www.unitn.it/en">University of Trento</em></a>
