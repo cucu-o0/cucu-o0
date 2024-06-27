@@ -15,17 +15,6 @@
 </br><img src="imgs\assist_digital.png" alt="assist digital" style="width:14px;height:14px;"> <em>Jr. AI Engineer @ <a href="https://generativeai.assistdigital.com/">Assist Digital</em></a>
 </em></p>
 
-**Skills**
-
-`Generative AI`<br/>
-`Prompt Engineering`<br/>
-`AI`<br/>
-`AWS`<br/>
-`Docker`<br/>
-`NLP`<br/>
-`OCR`<br/>
-`Scrum`
-
 **Projects**
   > [ANNa](https://drive.google.com/file/d/1GIPx9gteXYtnzZqV_5Xf3pdDmMsKStV_/view?usp=sharing) Artificial [Neural Network](https://github.com/cucu-o0/final_project_IH_leukemia) anti-Leukemia<br/>
   [Titanic](https://github.com/cucu-o0/titanic) The legendary Titanic ML kaggle competition<br/>
