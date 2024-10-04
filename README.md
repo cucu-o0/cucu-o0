@@ -6,7 +6,7 @@ I am *Vero*, a Building Engineer turned AI Engineer.
   - 🎓  Building Engineer turned AI Engineer  @~~[Trialiang](https://www.trialing.org/)~~ @~~[botshelf](https://botshelf.ai/)~~ @[Assist Digital](https://assistdigital.com/)
 
 <div style="border: 0px solid grey; padding: 5px; margin-top: 2px; border-radius: 0px; text-align: left;">
-  <span style="font-size: 14px; color: #4aa4f0;">#data #open-source #machinelearning #deeplearning #computervision #generativeAI #dataengineering #MLOps #AIforMedicine #AIforGood</span>
+  <span style="font-size: 14px; color: #4aa4f0;"><em>#data #open-source #machinelearning #deeplearning #computervision #generativeAI #dataengineering #MLOps #AIforMedicine #AIforGood<em></span>
 </div>
 
 
@@ -30,11 +30,10 @@ I am *Vero*, a Building Engineer turned AI Engineer.
       <a href="https://github.com/cucu-o0/paws-pal">
         <img src="imgs/partyrock.png" alt="Adopt a Love Animal" style="width: 400px; height: auto; aspect-ratio: 1 / 1;" />
       </a>
-      <p style="margin-bottom: 5px;">Skills:</p>
       <div style="border: 1px solid grey; padding: 10px; border-radius: 0px; text-align: left;">
-        <span style="font-size: 14px; color: #4aa4f0;">#python #llama3.1 #langchain #chroma #streamlit #CI/CD</span>
+        <span style="font-size: 14px; color: #4aa4f0;"><em>#python #llama3.1 #langchain #chroma #streamlit #CI/CD<em></span>
       </div>
-      <p style="margin-top: 5px;">Pet Project<br>2021</p>
+      <p style="margin-top: 5px;"><br>Pet Project<br>2021</p>
     <!-- Second Project -->
     <td style="padding: 5px; vertical-align: top; height: 300px;">
       <h3>SAG-Mill 📈</h3>
@@ -42,11 +41,10 @@ I am *Vero*, a Building Engineer turned AI Engineer.
       <a href="https://github.com/cucu-o0/SAG-Mill">
         <img src="imgs/sag_mill.png" alt="SAG-Mill" style="width: 400px; height: auto; aspect-ratio: 1 / 1;" />
       </a>
-      <p style="margin-bottom: 5px;">Skills:</p>
       <div style="border: 1px solid grey; padding: 10px; border-radius: 0px; text-align: left;">
-        <span style="font-size: 14px; color: #4aa4f0;">#python #timeseries #LSTM #tensorflow #keras</span>
+        <span style="font-size: 14px; color: #4aa4f0;"><em>#python #timeseries #LSTM #tensorflow #keras<em></span>
       </div>
-      <p style="margin-top: 5px;">Tech Interview<br>2021</p>
+      <p style="margin-top: 5px;"><br>Tech Interview<br>2021</p>
     </td>
     <!-- Third Project -->
     <td style="padding: 5px; vertical-align: top; height: 300px;">
@@ -55,11 +53,10 @@ I am *Vero*, a Building Engineer turned AI Engineer.
       <a href="https://drive.google.com/drive/u/1/folders/11Z8Y15rVWJ9m-ZBSfprtLk0oRYxpX0q7">
         <img src="imgs/titanic.png" alt="Titanic" style="width: 400px; height: auto; aspect-ratio: 1 / 1;" />
       </a>
-      <p style="margin-bottom: 5px;">Skills:</p>
       <div style="border: 1px solid grey; padding: 10px; border-radius: 0px; text-align: left;">
-        <span style="font-size: 14px; color: #4aa4f0;">#python #notebooks #kaggle #sklearn #pandas #seaborn</span>
+        <span style="font-size: 14px; color: #4aa4f0;"><em>#python #notebooks #kaggle #sklearn #pandas #seaborn<em></span>
       </div>
-      <p style="margin-top: 5px;">Personal Project<br>2021</p>
+      <p style="margin-top: 5px;"><br>Personal Project<br>2021</p>
     </td>
     <!-- Fourth Project -->
     <td style="padding: 5px; vertical-align: top; height: 300px;">
@@ -68,11 +65,10 @@ I am *Vero*, a Building Engineer turned AI Engineer.
       <a href="https://drive.google.com/file/d/1GIPx9gteXYtnzZqV_5Xf3pdDmMsKStV_/view?usp=sharing">
         <img src="imgs/ANNa.png" alt="ANNa" style="width: 400px; height: auto; aspect-ratio: 1 / 1;" />
       </a>
-      <p style="margin-bottom: 5px;">Skills:</p>
       <div style="border: 1px solid grey; padding: 10px; border-radius: 0px; text-align: left;">
-        <span style="font-size: 14px; color: #4aa4f0;">#python #googlecolab #opencv #sklearn #sklearn #tensorflow</span>
+        <span style="font-size: 14px; color: #4aa4f0;"><em>#python #googlecolab #opencv #sklearn #sklearn #tensorflow<em></span>
       </div>
-      <p style="margin-top: 5px;">Final Project IronHack<br>2020</p>
+      <p style="margin-top: 5px;"><br>Final Project IronHack<br>2020</p>
     </td>
   </tr>
 </table>
