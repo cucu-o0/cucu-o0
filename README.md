@@ -3,34 +3,32 @@
 ## About me
 
 I am *Vero*, a Building Engineer turned AI Engineer.
+  - 🎓  Building Engineer turned AI Engineer  @~~[Trialiang](https://www.trialing.org/)~~ @~~[botshelf](https://botshelf.ai/)~~ @[Assist Digital](https://assistdigital.com/)
 
 ### Interests
 <div style="border: 0px solid grey; padding: 5px; margin-top: 2px; border-radius: 0px; text-align: left;">
-  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">data</span>
-  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">open-source</span>
-  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">machine | deep learning</span>
-  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">computer vision</span>
-  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">generative AI</span>
-  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; 
-  border-radius: 2px; display: inline-block; margin-right: 2px;">data engineering</span>
-  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">MLOps</span>
-  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block;">AI for Medicine</span>
-  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block;">AI for Good</span>
+  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 10px; border-radius: 3px; display: inline-block; margin-right: 3px;">data</span>
+  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 10px; border-radius: 3px; display: inline-block; margin-right: 3px;">open-source</span>
+  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 10px; border-radius: 3px; display: inline-block; margin-right: 3px;">machine·deep learning</span>
+  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 10px; border-radius: 3px; display: inline-block; margin-right: 3px;">computer vision</span>
+  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 10px; border-radius: 3px; display: inline-block; margin-right: 3px;">generative AI</span>
+  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 10px; border-radius: 3px; display: inline-block; margin-right: 3px;">data engineering</span>
+  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 10px; border-radius: 3px; display: inline-block; margin-right: 3px;">MLOps</span>
+  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 10px; border-radius: 3px; display: inline-block; margin-right: 3px;">AI for Medicine</span>
+  <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 10px; border-radius: 3px; display: inline-block; margin-right: 3px;">AI for Good</span>
 </div>
-
-## Studies
-
-  - 🤖 Data Analytics Bootcamp @[Ironhack](https://www.ironhack.com/)
-  - 🏗️ MSc Building Engineering @[Università degli Studi di Trento](https://www.unitn.it/en)
 
 
 ## Experiences
-  - 🎓  Building Engineer turned AI Engineer  @~~[Trialiang](https://www.trialing.org/)~~ @~~[botshelf](https://botshelf.ai/)~~ @[Assist Digital](https://assistdigital.com/)
 
-  TODO: Timeline of my career.
+<div style="text-align: center;">
+  <img src="imgs/timeline.png" alt="Timeline" width="400"/>
+  <br>
+  <a href="https://git-graph-creator.netlify.app/" style="font-size: 10px; color: grey;">https://git-graph-creator.netlify.app/</a>
+</div>
 
 
-<h2 style="margin-bottom: 0;">Projects</h2>
+## Projects
 <div style="padding: 5px; display: flex; justify-content: space-between;">
 
   <!-- First Container -->
@@ -44,19 +42,19 @@ I am *Vero*, a Building Engineer turned AI Engineer.
       <img src="imgs/partyrock.png" alt="Adopt a Love Animal" style="width: 100%; height: auto; aspect-ratio: 1 / 1;" />
     </a>
     <!-- Tags Section with Border and Title -->
-    <p style="margin-bottom: 2px;">Skills</p>
-    <div style="border: 1px solid grey; padding: 5px; margin-top: 2px; border-radius: 0px; text-align: center;">
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">python</span>
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">llama 3.1</span>
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">langchain</span>
+    <p style="margin-bottom: 5px;">Skills</p>
+    <div style="border: 1px solid grey; padding: 10px; margin-top: 2px; border-radius: 0px; text-align: center;">
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">python</span>
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">llama 3.1</span>
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">langchain</span>
       <!-- Second Line with Border -->
-      <div style="margin-top: 5px;"> <!-- Change this value to adjust distance -->
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">chroma</span>
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block;">streamlit</span>
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block;">CI/CD</span>
+      <div style="margin-top: 5px;">
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">chroma</span>
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">streamlit</span>
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">CI/CD</span>
         </div>
     </div>
-    <p style="margin-top: 5px;">2024</p>
+    <p style="margin-top: 5px;">Pet Project<br>2024</p>
   </div>
 
   <!-- Second Container -->
@@ -70,18 +68,18 @@ I am *Vero*, a Building Engineer turned AI Engineer.
       <img src="imgs/sag_mill.png" alt="ANNa" style="width: 100%; height: auto; aspect-ratio: 1 / 1;" />
     </a>
     <!-- Tags Section with Border and Title -->
-    <p style="margin-bottom: 2px;">Skills</p>
-    <div style="border: 1px solid grey; padding: 5px; margin-top: 2px; border-radius: 0px; text-align: center;">
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">python</span>
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">time series</span>
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">LSTM</span>
+    <p style="margin-bottom: 5px;">Skills</p>
+    <div style="border: 1px solid grey; padding: 10px; margin-top: 2px; border-radius: 0px; text-align: center;">
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">python</span>
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">time series</span>
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">LSTM</span>
       <!-- Second Line with Border -->
-      <div style="margin-top: 5px;"> <!-- Change this value to adjust distance -->
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">tensorflow</span>
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block;">keras</span>
+      <div style="margin-top: 5px;">
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">tensorflow</span>
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">keras</span>
         </div>
     </div>
-    <p style="margin-top: 5px;">2021</p>
+    <p style="margin-top: 5px;">Tech Interview<br>2021</p>
   </div>
 
   <!-- Third Container -->
@@ -92,17 +90,17 @@ I am *Vero*, a Building Engineer turned AI Engineer.
       <img src="imgs/titanic.png" alt="Titanic" style="width: 100%; height: auto; aspect-ratio: 1 / 1;" />
     </a>
     <!-- Tags Section with Border and Title -->
-    <p style="margin-bottom: 2px;">Skills</p>
-    <div style="border: 1px solid grey; padding: 5px; margin-top: 2px; border-radius: 0px; text-align: center;">
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">python</span>
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">notebooks</span>
+    <p style="margin-bottom: 5px;">Skills</p>
+    <div style="border: 1px solid grey; padding: 10px; margin-top: 2px; border-radius: 0px; text-align: center;">
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">python</span>
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">notebooks</span>
       <!-- Second Line with Border -->
-      <div style="margin-top: 5px;"> <!-- Change this value to adjust distance -->
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">pandas</span>
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block;">sklearn</span>
+      <div style="margin-top: 5px;">
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">sklearn</span>
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">pandas</span>
         </div>
     </div>
-    <p style="margin-top: 5px;">2021</p>
+    <p style="margin-top: 5px;">Personal Project<br>2021</p>
   </div>
 
   <!-- Fourth Container -->
@@ -113,21 +111,21 @@ I am *Vero*, a Building Engineer turned AI Engineer.
       <img src="imgs/ANNa.png" alt="ANNa" style="width: 100%; height: auto; aspect-ratio: 1 / 1;" />
     </a>
     <!-- Tags Section with Border and Title -->
-    <p style="margin-bottom: 2px;">Skills</p>
-    <div style="border: 1px solid grey; padding: 5px; margin-top: 2px; border-radius: 0px; text-align: center;">
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">python</span>
-      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">google colab</span>
+    <p style="margin-bottom: 5px;">Skills</p>
+    <div style="border: 1px solid grey; padding: 10px; margin-top: 2px; border-radius: 0px; text-align: center;">
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">python</span>
+      <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">google colab</span>
       <!-- Second Line with Border -->
-      <div style="margin-top: 5px;"> <!-- Change this value to adjust distance -->
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block; margin-right: 2px;">opencv</span>
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block;">sklearn</span>
-          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px; border-radius: 2px; display: inline-block;">tensorflow</span>
+      <div style="margin-top: 5px;">
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">opencv</span>
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">sklearn</span>
+          <span style="font-size: 12px; color: #ffffff; background-color: #ff6347; padding: 2px 5px; border-radius: 3px; display: inline-block; margin-right: 3px;">tensorflow</span>
         </div>
     </div>
-    <p style="margin-top: 5px;">2020</p>
+    <p style="margin-top: 5px;">Final Project IronHack<br>2020</p>
   </div>
-
 </div>
+
 
 ## Hackatons
 | Date | Title | Description | Hackathon | Collaborators |
