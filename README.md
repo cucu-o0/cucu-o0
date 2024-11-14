@@ -91,18 +91,18 @@ timeline
 </table>
 
 
-| Date | Logo | Title | Description | Type | Stack |
-|------|------|-------|-------------|------|---------|
-| 2024 | <img src="imgs/partyrock.png" width="50" height="50" /> | [🐾 PawsPal!](https://github.com/cucu-o0/paws-pal) | Find your perfect Pawtner! | Pet Project | ![Llama3.1](https://img.shields.io/badge/Llama3.1-blue) ![Langchain](https://img.shields.io/badge/Langchain-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-blue) ![CI/CD](https://img.shields.io/badge/CI/CD-blue) |
-| 2021 | <img src="imgs/sag_mill.png" width="50" height="50" /> | [⚙️ SAG-Mill](https://github.com/cucu-o0/SAG-Mill) | Time Series Long short term Memory | Tech Interview | ![TimeSeries](https://img.shields.io/badge/Time%20Series-blue) ![LSTM](https://img.shields.io/badge/LSTM-blue) ![Tensorflow](https://img.shields.io/badge/Tensorflow-blue) ![Keras](https://img.shields.io/badge/Keras-blue) |
-| 2021 | <img src="imgs/titanic.png" width="50" height="50" /> | [🧊 Titanic](https://drive.google.com/drive/u/1/folders/11Z8Y15rVWJ9m-ZBSfprtLk0oRYxpX0q7) | The legendary Kaggle competition | Personal Project | ![Notebooks](https://img.shields.io/badge/Notebooks-blue) ![Kaggle](https://img.shields.io/badge/Kaggle-blue) ![Sklearn](https://img.shields.io/badge/Sklearn-blue) ![Seaborn](https://img.shields.io/badge/Seaborn-blue) |
-| 2020 | <img src="imgs/ANNa.png" width="50" height="50" /> | [🧠 ANNa](https://drive.google.com/file/d/1GIPx9gteXYtnzZqV_5Xf3pdDmMsKStV_/view?usp=sharing) | Artificial Neural Network anti-leukemia | Final Project IronHack | ![GoogleColab](https://img.shields.io/badge/Google%20Colab-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) ![Sklearn](https://img.shields.io/badge/Sklearn-blue) ![Tensorflow](https://img.shields.io/badge/Tensorflow-blue)  |
+| Date | Title | Description | Type | Stack |
+|------|-------|-------------|------|-------|
+| 2024 | [🐾 PawsPal!](https://github.com/cucu-o0/paws-pal) | Find your perfect Pawtner! | Pet Project | ![Llama3.1](https://img.shields.io/badge/Llama3.1-blue) ![Langchain](https://img.shields.io/badge/Langchain-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-blue) ![CI/CD](https://img.shields.io/badge/CI/CD-blue) |
+| 2021 | [⚙️ SAG-Mill](https://github.com/cucu-o0/SAG-Mill) | Time Series Long short term Memory | Tech Interview | ![TimeSeries](https://img.shields.io/badge/Time%20Series-blue) ![LSTM](https://img.shields.io/badge/LSTM-blue) ![Tensorflow](https://img.shields.io/badge/Tensorflow-blue) ![Keras](https://img.shields.io/badge/Keras-blue) |
+| 2021 | [🧊 Titanic](https://drive.google.com/drive/u/1/folders/11Z8Y15rVWJ9m-ZBSfprtLk0oRYxpX0q7) | The legendary Kaggle competition | Personal Project | ![Notebooks](https://img.shields.io/badge/Notebooks-blue) ![Kaggle](https://img.shields.io/badge/Kaggle-blue) ![Sklearn](https://img.shields.io/badge/Sklearn-blue) ![Seaborn](https://img.shields.io/badge/Seaborn-blue) |
+| 2020 | [🧠 ANNa](https://drive.google.com/file/d/1GIPx9gteXYtnzZqV_5Xf3pdDmMsKStV_/view?usp=sharing) | Artificial Neural Network anti-leukemia | Final Project IronHack | ![GoogleColab](https://img.shields.io/badge/Google%20Colab-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) ![Sklearn](https://img.shields.io/badge/Sklearn-blue) ![Tensorflow](https://img.shields.io/badge/Tensorflow-blue)  |
 
 ## Hackatons
-| Date | Logo | Title | Description | Hackathon | Collaborators |
-|------|------|-------|-------------|-----------|---------------|
-| 2024 | <img src="imgs/doclingo.png" width="50" height="50" /> | [🩺 Doclingo](https://github.com/alabarga/hackbcn-2024) | Decoding Medical Jargon with AI | @[HackBarna - AI Edition](https://www.hackbarna.com/en) | @[Alberto Labarga](https://www.linkedin.com/in/albertolabarga/)  @[Romina Mendez](https://www.linkedin.com/in/mendezromina/) |
-| 2023 | <img src="imgs/bsc.png" width="200" height="100" /> | [🔍 Sex Bias in Research](hackatons/FINAL_PRESENTATION_15_12_23.pptx) | Is Sex Representation In Biological Research Experiments Adequately Funded? |@[2nd BioHackathon Germany](https://www.denbi.de/de-nbi-events/1547-biohackathon-germany-2) | @[Barcelona Supercomputing Center](https://www.bsc.es/) |
+| Date | Title | Description | Hackathon | Collaborators |
+|------|-------|-------------|-----------|---------------|
+| 2024 | [🩺 Doclingo](https://github.com/alabarga/hackbcn-2024) | Decoding Medical Jargon with AI | @[HackBarna - AI Edition](https://www.hackbarna.com/en) | @[Alberto Labarga](https://www.linkedin.com/in/albertolabarga/)  @[Romina Mendez](https://www.linkedin.com/in/mendezromina/) |
+| 2023 | [🔍 Sex Bias in Research](hackatons/FINAL_PRESENTATION_15_12_23.pptx) | Is Sex Representation In Biological Research Experiments Adequately Funded? |@[2nd BioHackathon Germany](https://www.denbi.de/de-nbi-events/1547-biohackathon-germany-2) | @[Barcelona Supercomputing Center](https://www.bsc.es/) |
 
 
 ## Contacts 
@@ -116,7 +116,8 @@ timeline
 
 
 ## Hobbies
-🌊 Openwater swimmer wannabe  
+🌊 Open water swimmer wannabe  
+🍞 Homemade bread  
 🐶 Volunteer @[Centro de Acogida de Animales de Compañía de Barcelona](https://ajuntament.barcelona.cat/benestaranimal/es/centro-de-acogida-de-animales-de-compania-caacb)  
 
 
