@@ -2,21 +2,36 @@
 
 ## About me
 
-I am *Vero*, a Building Engineer turned AI Engineer.
-  - 🎓  Building Engineer turned AI Engineer  @~~[Trialiang](https://www.trialing.org/)~~ @~~[botshelf](https://botshelf.ai/)~~ @[Assist Digital](https://assistdigital.com/)
+I am *Vero*, Building Engineer turned AI Engineer with a passion for exploring the realms of *Machine Learning* and *Artificial Intelligence*.
 
-<div style="border: 0px solid grey; padding: 5px; margin-top: 2px; border-radius: 0px; text-align: left;">
-  <span style="font-size: 14px; color: #4aa4f0; font-style: italic;">#data #open-source #machinelearning #deeplearning #computervision #generativeAI #dataengineering #MLOps #AIforMedicine #AIforGood</span>
-</div>
+![Data](https://img.shields.io/badge/Data-blue) ![MachineLearning](https://img.shields.io/badge/Machine%20Learning-blue) ![DeepLearning](https://img.shields.io/badge/Deep%20Learning-blue) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue) ![GenerativeAI](https://img.shields.io/badge/Generative%20AI-blue) ![DataEnigneering](https://img.shields.io/badge/Data%20Engineering-blue) ![MLOps](https://img.shields.io/badge/MLOps-blue) ![AIforGood](https://img.shields.io/badge/AI%20for%20Good-blue) ![AIforMedicine](https://img.shields.io/badge/AI%20for%20Medicine-blue)
 
 
 ## Experiences
 
-<div style="text-align: center;">
-  <img src="imgs/timeline.png" alt="Timeline" width="400"/>
-  <br>
-  <a href="https://git-graph-creator.netlify.app/" style="font-size: 10px; color: grey;">git-graph-creator</a>
-</div>
+```mermaid
+timeline
+  title Example 1
+  section 2023 Q1 <br> Release Personal Tier
+    Bullet 1 : sub-point 1a : sub-point 1b
+          : sub-point 1c
+    Bullet 2 : sub-point 2a : sub-point 2b
+  section 2023 Q2 <br> Release XYZ Tier
+    Bullet 3 : sub-point <br> 3a : sub-point 3b
+          : sub-point 3c
+    Bullet 4 : sub-point 4a : sub-point 4b
+
+```
+
+```mermaid
+  %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+    timeline
+        title Example 2
+          2002 : LinkedIn
+          2004 : Facebook : Google
+          2005 : Youtube
+          2006 : Twitter
+```
 
 
 ## Projects
@@ -95,7 +110,7 @@ I am *Vero*, a Building Engineer turned AI Engineer.
 
 ## Hobbies
 🐶 Volunteer @[Centro de Acogida de Animales de Compañía de Barcelona](https://ajuntament.barcelona.cat/benestaranimal/es/centro-de-acogida-de-animales-de-compania-caacb)  
-🌊 Open-water swimmer wannabe
+🌊 Openwater swimmer wannabe
 
 
 
