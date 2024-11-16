@@ -31,7 +31,7 @@ I’m **Vero**, an Italian **AI Engineer** from Barcelona. With a background in 
 ### Experiences
 
 <details>
-  <summary style="color: #ffcc5c;">Quick overview of my journey</summary>
+  <summary style="color: #ffcc5c;">A brief look at my journey up to now</summary>
 
 ```mermaid
   %%{init: { 'logLevel': 'debug', 'theme': 'base', 'timeline': {'disableMulticolor': true}}}%%
