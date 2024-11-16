@@ -30,6 +30,9 @@ I’m **Vero**, an Italian **AI Engineer** from Barcelona. With a background in 
 
 ### Experiences
 
+<details>
+  <summary style="color: #ffcc5c;">Click to explore a quick overview of my journey</summary>
+
 ```mermaid
   %%{init: { 'logLevel': 'debug', 'theme': 'base', 'timeline': {'disableMulticolor': true}}}%%
   timeline
@@ -38,19 +41,22 @@ I’m **Vero**, an Italian **AI Engineer** from Barcelona. With a background in 
                 : 🇮🇹 Florence <br> Master ABITA (Bioecological Architecture and Technology)
                 : 🇪🇸 Barcelona <br> Postgrads Structural Engineering 
       Work : 🇮🇹 Pordenone <br> ENGteam&Partners 
-           : 🇪🇸 Tarragona <br> Windmill Structural Consultants
-           : 🇪🇸 Barcelona <br> Artec Studio
-           : 🇪🇸 Barcelona <br> BIS structures
+          : 🇪🇸 Tarragona <br> Windmill Structural Consultants
+          : 🇪🇸 Barcelona <br> Artec Studio
+          : 🇪🇸 Barcelona <br> BIS structures
     section 🤖 Data
       Education : 🇪🇸 Barcelona <br> Data Analytics Bootcamp Ironhack
                 : 💻 DeepLearning.AI <br> Machine Learning Specialization 
                 : 💻 DeepLearning.AI <br> Generative AI for Software Development 
                 : 💻 Microsoft <br> AZ-900 Microsoft Azure Fundamentals <br> - in progress
       Work : 🇪🇸 Barcelona <br> Trialing
-           : 🇮🇹 Rome <br> Botshelf.ai
-           : 🇮🇹 Rome <br> Assist Digital
+          : 🇮🇹 Rome <br> Botshelf.ai
+          : 🇮🇹 Rome <br> Assist Digital
 ```
+</details>   
 
+
+<br> For further information, please check out my [Linkedin](https://www.linkedin.com/in/veroagnolutto/) profile.
 
 ### Hobbies
 
@@ -59,9 +65,10 @@ I’m **Vero**, an Italian **AI Engineer** from Barcelona. With a background in 
 🐶 Volunteer @[Centro de Acogida de Animales de Compañía de Barcelona](https://ajuntament.barcelona.cat/benestaranimal/es/centro-de-acogida-de-animales-de-compania-caacb)   
 🎾 Matilde's coach   
 <details>
-  <summary> Click to meet Matilde </summary>
-  <img src="imgs/mati.png" width="25%" alt="Your Image">
+  <summary style="color: #ffcc5c;">Click to meet Matilde</summary>
+  <img src="imgs/mati.png" width="25%" alt="Matilde">
 </details>
+
 
 
 ###  Contacts 
