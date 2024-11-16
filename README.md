@@ -31,7 +31,7 @@ I’m **Vero**, an Italian **AI Engineer** from Barcelona. With a background in 
 ### Experiences
 
 <details>
-  <summary style="color: #ffcc5c;">Click to explore a quick overview of my journey</summary>
+  <summary style="color: #ffcc5c;">Quick overview of my journey</summary>
 
 ```mermaid
   %%{init: { 'logLevel': 'debug', 'theme': 'base', 'timeline': {'disableMulticolor': true}}}%%
@@ -65,7 +65,7 @@ I’m **Vero**, an Italian **AI Engineer** from Barcelona. With a background in 
 🐶 Volunteer @[Centro de Acogida de Animales de Compañía de Barcelona](https://ajuntament.barcelona.cat/benestaranimal/es/centro-de-acogida-de-animales-de-compania-caacb)   
 🎾 Matilde's coach   
 <details>
-  <summary style="color: #ffcc5c;">Click to meet Matilde</summary>
+  <summary style="color: #ffcc5c;">Meet Matilde</summary>
   <img src="imgs/mati.png" width="25%" alt="Matilde">
 </details>
 
