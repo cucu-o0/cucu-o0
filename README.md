@@ -7,11 +7,6 @@ I'm **Vero**, an Italian Building Engineer turned **AI Engineer**, passionate ab
 A lifelong learner, always seeking new challenges!
 
 
-### Skills
-
-![Python ](https://img.shields.io/badge/Python-blue) ![Data](https://img.shields.io/badge/Data-blue) ![MachineLearning](https://img.shields.io/badge/Machine%20Learning-blue) ![DeepLearning](https://img.shields.io/badge/Deep%20Learning-blue) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue) ![GenerativeAI](https://img.shields.io/badge/Generative%20AI-blue) ![DataEnigneering](https://img.shields.io/badge/Data%20Engineering-blue) ![MLOps](https://img.shields.io/badge/MLOps-blue) ![AIforGood](https://img.shields.io/badge/AI%20for%20Good-blue) ![AIforMedicine](https://img.shields.io/badge/AI%20for%20Medicine-blue)
-
-
 ### Projects
 
 | Date | Title | Description |   Type    |     Stack     |
@@ -31,17 +26,33 @@ A lifelong learner, always seeking new challenges!
 
 <br> For further information, please check out my [Linkedin](https://www.linkedin.com/in/veroagnolutto/) profile.
 
+
+### Areas of Interest
+
+![Data](https://img.shields.io/badge/Data-blue) ![MachineLearning](https://img.shields.io/badge/Machine%20Learning-blue) ![DeepLearning](https://img.shields.io/badge/Deep%20Learning-blue) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue) ![GenerativeAI](https://img.shields.io/badge/Generative%20AI-blue) ![DataEngineering](https://img.shields.io/badge/Data%20Engineering-blue) ![MLOps](https://img.shields.io/badge/MLOps-blue) ![AIforGood](https://img.shields.io/badge/AI%20for%20Good-blue) ![AIforMedicine](https://img.shields.io/badge/AI%20for%20Medicine-blue) ![ResponsibleAI](https://img.shields.io/badge/Responsible%20AI-blue) 
+
+
+### AI Frameworks
+
+![PyTorch](https://img.shields.io/badge/PyTorch-blue) ![Keras](https://img.shields.io/badge/Keras-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-blue)
+
+
+### Relevant Python Packages
+
+![Pandas](https://img.shields.io/badge/Pandas-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) ![Pillow](https://img.shields.io/badge/Pillow-blue) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-blue) ![Spacy](https://img.shields.io/badge/Spacy-blue) ![HuggingFace](https://img.shields.io/badge/HuggingFace-blue) ![OpenAI](https://img.shields.io/badge/OpenAI-blue) ![Ollama](https://img.shields.io/badge/Ollama-blue) ![LangChain](https://img.shields.io/badge/LangChain-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-blue)
+
+
 ### Hobbies
 
 🐩 Matilde 
 
-<img src="imgs/mati.png" width="20%" alt="Matilde" style="display:block; margin-top: -20;">
+<img src="imgs/mati1.png" width="20%" alt="Matilde" style="display:block; margin-top: -20; margin-bottom: -20;">
 
 
 🐶 Volunteering @[CAACB](https://ajuntament.barcelona.cat/benestaranimal/es/cercador-danimals-en-adopcio)  
 🌊 Open-Water swimming  
 🎾 Padel   
-🍞 Handcrafted breadmaker  
+🍞 Handmade Bread Baking  
  
 
 
