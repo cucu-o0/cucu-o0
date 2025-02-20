@@ -39,7 +39,7 @@ A lifelong learner, always seeking new challenges!
 
 ### Relevant Python Packages
 
-![Pandas](https://img.shields.io/badge/Pandas-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) ![Pillow](https://img.shields.io/badge/Pillow-blue) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-blue) ![Spacy](https://img.shields.io/badge/Spacy-blue) ![HuggingFace](https://img.shields.io/badge/HuggingFace-blue) ![OpenAI](https://img.shields.io/badge/OpenAI-blue) ![Ollama](https://img.shields.io/badge/Ollama-blue) ![LangChain](https://img.shields.io/badge/LangChain-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-blue)
+![Pandas](https://img.shields.io/badge/Pandas-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) ![Pillow](https://img.shields.io/badge/Pillow-blue) ![YOLO](https://img.shields.io/badge/YOLO-blue) ![Spacy](https://img.shields.io/badge/Spacy-blue) ![HuggingFace](https://img.shields.io/badge/HuggingFace-blue) ![OpenAI](https://img.shields.io/badge/OpenAI-blue) ![Ollama](https://img.shields.io/badge/Ollama-blue) ![LangChain](https://img.shields.io/badge/LangChain-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-blue)
 
 
 ### Hobbies
