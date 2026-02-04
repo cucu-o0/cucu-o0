@@ -2,7 +2,7 @@
 
 Hi! I’m Vero 👋 — an Italian AI Engineer with a Building Engineering background. 
 
-*design ML and Generative AI solutions to solve real-world data challenges, building automation that makes processes smarter and faster!*
+*I love to design ML and Generative AI solutions to solve real-world data challenges, building automation that makes processes smarter and faster!*
 
 ## About me ✨
 
@@ -17,7 +17,7 @@ Hi! I’m Vero 👋 — an Italian AI Engineer with a Building Engineering backg
 ```go
 💙 Passionate about `Data·ML·AI`  
 👀 Exploring `MLOps·LLMOps·AI Agents`  
-🌱 Focus on `AI for Good & Innovation`
+🌱 Focus on `AI for Good·Innovation`
 ```
 
 
