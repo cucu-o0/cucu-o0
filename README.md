@@ -13,7 +13,7 @@ Hi! I’m Vero 👋 — an Italian AI Engineer with a Building Engineering backg
 📍 Barcelona, Spain
 
 
-## Skills 🧠
+## Areas of Interest 🧠
 ```go
 💙 Passionate about `Data·ML·AI`  
 👀 Exploring `MLOps·LLMOps·AI Agents`  
