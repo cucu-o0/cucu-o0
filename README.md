@@ -26,6 +26,7 @@ Hi! I’m Vero 👋 — an Italian AI Engineer with a Building Engineering backg
 </br><!-- Programming / Core Tools -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-3776AB?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Unit Tests](https://img.shields.io/badge/UnitTests-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/unittest.html)
 </br><!-- Neuro / EEG / Imaging Tools -->
 [![XNAT](https://img.shields.io/badge/XNAT-008080?style=flat&logo=database&logoColor=white)](https://www.xnat.org/)
 [![EEG](https://img.shields.io/badge/EEG-008080?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Electroencephalography)
@@ -35,8 +36,8 @@ Hi! I’m Vero 👋 — an Italian AI Engineer with a Building Engineering backg
 [![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=flat&logo=github&logoColor=white)](https://github.com/ultralytics/yolov5)
 [![spaCy](https://img.shields.io/badge/spaCy-FF6F00?style=flat&logo=python&logoColor=white)](https://spacy.io/)
 </br><!-- Generative AI -->
-[![OpenAI](https://img.shields.io/badge/OpenAI-FF4500?style=flat&logo=openai&logoColor=white)](https://openai.com/)
-[![Gemini](https://img.shields.io/badge/Gemini-FF4500?style=flat&logo=google&logoColor=white)](https://blog.google/technology/ai/gemini/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-FF4500?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-FF4500?style=flat&logo=google&logoColor=white)](https://gemini.google.com/app)
 [![Claude](https://img.shields.io/badge/Claude-FF4500?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF4500?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![Ollama](https://img.shields.io/badge/Ollama-FF4500?style=flat&logo=ai&logoColor=white)](https://ollama.com/)
