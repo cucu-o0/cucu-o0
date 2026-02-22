@@ -27,9 +27,6 @@ Hi! I’m Vero 👋 — an Italian AI Engineer with a Building Engineering backg
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-3776AB?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Unit Tests](https://img.shields.io/badge/UnitTests-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/unittest.html)
-</br><!-- Neuro / EEG / Imaging Tools -->
-[![XNAT](https://img.shields.io/badge/XNAT-008080?style=flat&logo=database&logoColor=white)](https://www.xnat.org/)
-[![EEG](https://img.shields.io/badge/EEG-008080?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Electroencephalography)
 </br><!-- ML / Deep Learning -->
 [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-FF6F00?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
