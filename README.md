@@ -31,13 +31,15 @@ Hi! I’m Vero 👋 — an Italian AI Engineer with a Building Engineering backg
 [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-2496ED?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2496ED?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![YOLO](https://img.shields.io/badge/YOLO-2496ED?style=flat&logo=github&logoColor=white)](https://github.com/ultralytics/yolov5)
+[![OpenCV](https://img.shields.io/badge/OpenCV-2496ED?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
 [![spaCy](https://img.shields.io/badge/spaCy-2496ED?style=flat&logo=python&logoColor=white)](https://spacy.io/)
 </br><!-- Generative AI -->
-[![OpenAI](https://img.shields.io/badge/OpenAI-2496ED?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-2496ED?style=flat&logo=openai&logoColor=white)](https://openai.com/)
 [![Gemini](https://img.shields.io/badge/Gemini-2496ED?style=flat&logo=google&logoColor=white)](https://gemini.google.com/app)
 [![Claude](https://img.shields.io/badge/Claude-2496ED?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-2496ED?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
-[![Ollama](https://img.shields.io/badge/Ollama-2496ED?style=flat&logo=ai&logoColor=white)](https://ollama.com/)
+[![RAG](https://img.shields.io/badge/RAG-2496ED?style=flat&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+[![Ollama](https://img.shields.io/badge/Ollama-2496ED?style=flat&logo=ollama&logoColor=white)](https://ollama.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-2496ED?style=flat&logo=python&logoColor=white)](https://www.langchain.com/)
 </br><!-- Deployment / Platforms -->
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
