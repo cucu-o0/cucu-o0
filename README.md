@@ -16,7 +16,7 @@ Hi! I’m Vero 👋 — an Italian AI Engineer with a Building Engineering backg
 ## Areas of Interest 🧠
 ```go
 💙 Passionate about `Data·ML·AI`  
-👀 Exploring `Computer Vision·Geospatial Data·MLOps·AI Agents`  
+👀 Exploring `Computer Vision·Geospatial Data·MLOps·AI Agents·Observability`  
 🌱 Focus on `AI for Good·Innovation`
 ```
 
