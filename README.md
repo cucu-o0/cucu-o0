@@ -39,7 +39,6 @@ Hi! I’m Vero 👋 — an Italian AI Engineer with a Building Engineering backg
 [![Claude](https://img.shields.io/badge/Claude-2496ED?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-2496ED?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![RAG](https://img.shields.io/badge/RAG-2496ED?style=flat&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-[![Ollama](https://img.shields.io/badge/Ollama-2496ED?style=flat&logo=ollama&logoColor=white)](https://ollama.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-2496ED?style=flat&logo=python&logoColor=white)](https://www.langchain.com/)
 </br><!-- Deployment / Platforms -->
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
